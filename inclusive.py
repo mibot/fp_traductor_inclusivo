@@ -1,6 +1,6 @@
 def traductor_inclusivo(frase):
     """
-    Convierte palabras masculinas a su versión neutra, reemplazando 'o' o 'a' por 'e'
+    Convierte palabras masculinas o femeninas a su versión neutra, reemplazando 'o' o 'a' por 'e'
     en el último o anteúltimo carácter de cada palabra.
 
     Args:
